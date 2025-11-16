@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "slides.html#i",
+    "href": "slides.html#i",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.I)",
+    "text": "2.3.I)\nÉnoncé: \\(T(t)=(T_0-A)e^{-k(t-t_0)}+A\\). \\(t\\) en heures.\nDonnées: \\(T(9)=30\\) et \\(T(10)=26\\) et \\(A=20\\), \\(T_0=37\\). Question: trouver l’heure de la mort de la victime."
+  },
+  {
+    "objectID": "slides.html#i-1",
+    "href": "slides.html#i-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "2.3.I)",
+    "text": "2.3.I)"
+  },
+  {
+    "objectID": "slides.html#exercice-2.2.a-page-8",
+    "href": "slides.html#exercice-2.2.a-page-8",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exercice 2.2.A) (page 8)",
+    "text": "Exercice 2.2.A) (page 8)\nÉnoncé: Représentez \\(g\\), \\(h\\) et \\(i\\)."
+  },
+  {
+    "objectID": "slides.html#formulaire",
+    "href": "slides.html#formulaire",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Formulaire:",
+    "text": "Formulaire:\n\nFonctions de référence:\n\n\n\n\n\n\\((1)'=(2)'=(k)'=0\\)\n\\((x)'=1\\)\n\\((x^2)'=2x\\)\n\\((x^n)'=nx^{n-1}\\), où \\(n\\in\\mathbb{R}\\)\n\n\n\n \n\n\n\n\\((e^x)'=e^x\\) et \\((\\ln(x))'=\\dfrac{1}{x}\\).\n\\((a^x)'=a^x\\ln(a)\\) et \\((\\log_a(x))'=\\dfrac{1}{x\\ln(a)}\\)\n\\((\\sin(x))'=\\cos(x)\\) et \\((\\cos(x))'=-\\sin(x)\\)\n\\((\\tan(x))'=1+\\tan^2(x)=\\dfrac{1}{\\cos^2(x)}\\)"
+  },
+  {
+    "objectID": "slides.html#formulaire-1",
+    "href": "slides.html#formulaire-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Formulaire:",
+    "text": "Formulaire:\n\nRègles de calcul:\n\n\n\\((f\\pm g)'=f'+g'\\)\n\\((fg)'=f'g+fg'\\)\n\\(\\left(\\dfrac{f}{g}\\right)'=\\dfrac{f'g-fg'}{g^2}\\)\n\\((f\\circ g)'=(f'\\circ g)\\cdot g'\\)"
+  },
+  {
+    "objectID": "slides.html#exemples",
+    "href": "slides.html#exemples",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exemples:",
+    "text": "Exemples:\n\n\\((f\\pm g)'=f'+g'\\)"
+  },
+  {
+    "objectID": "slides.html#exemples-1",
+    "href": "slides.html#exemples-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exemples:",
+    "text": "Exemples:\n\n\\((fg)'=f'g+fg'\\)"
+  },
+  {
+    "objectID": "slides.html#exemples-2",
+    "href": "slides.html#exemples-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exemples:",
+    "text": "Exemples:\n\n\\(\\left(\\dfrac{f}{g}\\right)'=\\dfrac{f'g-fg'}{g^2}\\)"
+  },
+  {
+    "objectID": "slides.html#exemples-3",
+    "href": "slides.html#exemples-3",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Exemples:",
+    "text": "Exemples:\n\n\\((f\\circ g)'=(f'\\circ g)\\cdot g'\\)"
+  },
+  {
+    "objectID": "slides.html#a",
+    "href": "slides.html#a",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.A)",
+    "text": "3.1.A)\n\\(\\left(\\frac{1}{\\sqrt{2x}}\\right)'=\\)"
+  },
+  {
+    "objectID": "slides.html#a-1",
+    "href": "slides.html#a-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.A)",
+    "text": "3.1.A)\n\\(\\left(\\ln \\left( x\\text{e}^x \\right)\\right)'=\\)"
+  },
+  {
+    "objectID": "slides.html#a-2",
+    "href": "slides.html#a-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.A)",
+    "text": "3.1.A)\n\\(\\left(\\sqrt{x^2 (x-1)^{42}}\\right)'=\\)"
+  },
+  {
+    "objectID": "slides.html#a-3",
+    "href": "slides.html#a-3",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.A)",
+    "text": "3.1.A)\n\\(\\left(\\frac{x^3+2x^2}{\\cos (1-x)}\\right)'=\\)"
+  },
+  {
+    "objectID": "slides.html#a-4",
+    "href": "slides.html#a-4",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.A)",
+    "text": "3.1.A)\n\\(\\left(\\ln(e^x)\\right)'=\\)"
+  },
+  {
+    "objectID": "slides.html#a-5",
+    "href": "slides.html#a-5",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.A)",
+    "text": "3.1.A)\n-&gt; Faire le reste pour le 24."
+  },
+  {
+    "objectID": "slides.html#dérivée-interprétation-graphique",
+    "href": "slides.html#dérivée-interprétation-graphique",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Dérivée: interprétation graphique",
+    "text": "Dérivée: interprétation graphique\nSoit \\(f\\) une fonction et \\(a\\) dans son domaine. Alors \\(f'(a)\\)= pente de la tengante à \\(f\\) en \\(a\\)."
+  },
+  {
+    "objectID": "slides.html#dérivée-interprétation-graphique-1",
+    "href": "slides.html#dérivée-interprétation-graphique-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Dérivée: interprétation graphique",
+    "text": "Dérivée: interprétation graphique\nDonc, pour une fonction \\(f\\) dérivable en \\(a\\), la tangente \\(\\text{tg}_a\\) à \\(f\\) au point d’abscisse \\(a\\) a les deux caractéristiques suivantes:\n\nsa pente vaut \\(f'(a)\\)\nelle passe par le point \\((a,f(a))\\), ce qui permet de trouver l’ordonnée à l’origine de \\(\\text{tg}_a\\)."
+  },
+  {
+    "objectID": "slides.html#b",
+    "href": "slides.html#b",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.B)",
+    "text": "3.1.B)\n\\({f(x) = x^2+x-2}\\), au point d’abscisse \\(1\\)"
+  },
+  {
+    "objectID": "slides.html#b-1",
+    "href": "slides.html#b-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.B)",
+    "text": "3.1.B)\n\\({f(x) = x^2+3x-2}\\), parallèle à \\(d \\equiv y=x+1\\)"
+  },
+  {
+    "objectID": "slides.html#b-2",
+    "href": "slides.html#b-2",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.B)",
+    "text": "3.1.B)"
+  },
+  {
+    "objectID": "slides.html#b-3",
+    "href": "slides.html#b-3",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.B)",
+    "text": "3.1.B)\n\\({f(x) = x^2-x-6}\\), tangente comprenant \\((0,0)\\)"
+  },
+  {
+    "objectID": "slides.html#b-4",
+    "href": "slides.html#b-4",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.B)",
+    "text": "3.1.B)"
+  },
+  {
+    "objectID": "slides.html#c",
+    "href": "slides.html#c",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.1.C)",
+    "text": "3.1.C)\n-&gt; A préparer pour le 24."
+  },
+  {
+    "objectID": "slides.html#dérivée-approximation-et-d.t.",
+    "href": "slides.html#dérivée-approximation-et-d.t.",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Dérivée: approximation et D.T.",
+    "text": "Dérivée: approximation et D.T.\nDériver = approximer une fonction par qqch de plus simple (une droite). Calculer un D.T.= approximer une fonction par une autre fonction plus simple (un polynôme)."
+  },
+  {
+    "objectID": "slides.html#dérivée-approximation-et-d.t.-1",
+    "href": "slides.html#dérivée-approximation-et-d.t.-1",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "Dérivée: approximation et D.T.",
+    "text": "Dérivée: approximation et D.T."
+  },
+  {
+    "objectID": "slides.html#a-6",
+    "href": "slides.html#a-6",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.2.A)",
+    "text": "3.2.A)\nDéterminez le développement de Taylor à l’ordre n au voisinage de a pour la fonction f si\n\\(f(x) = \\sin(x)\\), \\(n=3\\) et \\(a=0\\)"
+  },
+  {
+    "objectID": "slides.html#a-7",
+    "href": "slides.html#a-7",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.2.A)",
+    "text": "3.2.A)"
+  },
+  {
+    "objectID": "slides.html#a-8",
+    "href": "slides.html#a-8",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.2.A)",
+    "text": "3.2.A)\nDéterminez le développement de Taylor à l’ordre n au voisinage de a pour la fonction f si\n\\(f(x) = \\ln(x + 1)\\), \\(n = 3\\) et \\(a = 0\\)."
+  },
+  {
+    "objectID": "slides.html#a-9",
+    "href": "slides.html#a-9",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.2.A)",
+    "text": "3.2.A)"
+  },
+  {
+    "objectID": "slides.html#b-5",
+    "href": "slides.html#b-5",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.2.B)",
+    "text": "3.2.B)\nConsidérons la fonction \\(f(x) = \\sqrt{x}\\).\n\nDéterminez une approximation linéaire \\(L(x)\\) de la fonction \\(f(x)\\) au voisinage de \\(a=1\\)."
+  },
+  {
+    "objectID": "slides.html#b-6",
+    "href": "slides.html#b-6",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.2.B)",
+    "text": "3.2.B)\nConsidérons la fonction \\(f(x) = \\sqrt{x}\\)."
+  },
+  {
+    "objectID": "slides.html#b-7",
+    "href": "slides.html#b-7",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.2.B)",
+    "text": "3.2.B)\nConsidérons la fonction \\(f(x) = \\sqrt{x}\\).\n\nEn vous basant sur l’approximation linéaire \\(L(x)\\), déterminez une valeur approchée de \\(\\sqrt{1,01}\\)."
+  },
+  {
+    "objectID": "slides.html#b-8",
+    "href": "slides.html#b-8",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.2.B)",
+    "text": "3.2.B)\nConsidérons la fonction \\(f(x) = \\sqrt{x}\\).\n\nEn sachant que \\(\\sqrt{1,01} = 1,00498\\ldots\\), commentez votre résultat pour la valeur approchée calculée au point précédent."
+  },
+  {
+    "objectID": "slides.html#d-et-3.2.e",
+    "href": "slides.html#d-et-3.2.e",
+    "title": "Introduction mathématique aux sciences de la vie",
+    "section": "3.2.D) et 3.2.E)",
+    "text": "3.2.D) et 3.2.E)\n–&gt; prépa pour le 24."
+  }
+]
