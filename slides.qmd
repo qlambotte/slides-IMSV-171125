@@ -70,17 +70,17 @@ a) Fonctions de référence:
 ::: {layout="[ 0.5, -0.05, 0.45 ]"}
 
 :::: {#first-column}
-- (1)'=(2)'=(k)'=0
-- (x)'=1
-- (x^2)'=2x
-- (x^n)'=nx^{n-1}, où $n\in\IR$
+- $(1)'=(2)'=(k)'=0$
+- $(x)'=1$
+- $(x^2)'=2x$
+- $(x^n)'=nx^{n-1}$, où $n\in\IR$
 
 ::::
 
 :::: {#second-column}
 - $(e^x)'=e^x$ et $(\ln(x))'=\dfrac{1}{x}$.
 - $(a^x)'=a^x\ln(a)$ et $(\log_a(x))'=\dfrac{1}{x\ln(a)}$
-- $(sin(x))'=\cos(x)$ et $(\cos(x))'=-\sin(x)$
+- $(\sin(x))'=\cos(x)$ et $(\cos(x))'=-\sin(x)$
 - $(\tan(x))'=1+\tan^2(x)=\dfrac{1}{\cos^2(x)}$
 ::::
 :::
@@ -89,15 +89,15 @@ a) Fonctions de référence:
 
 b) Règles de calcul:
 
-  - $(f\pm g)'=f'+g'
-  - $(fg)'=f'g+fg'$
-  - $\left(\dfrac{f}{g}\right)'=\dfrac{f'g-fg'}{g^2} 
-  - $(f\circ g)'=(f'\circ g)\cdot g'$
+- $(f\pm g)'=f'+g'$
+- $(fg)'=f'g+fg'$
+- $\left(\dfrac{f}{g}\right)'=\dfrac{f'g-fg'}{g^2}$
+- $(f\circ g)'=(f'\circ g)\cdot g'$
 
 
 ## Exemples:
 
-  - $(f\pm g)'=f'+g'
+  - $(f\pm g)'=f'+g'$
   
 ## Exemples:
 
@@ -105,7 +105,7 @@ b) Règles de calcul:
   
 ## Exemples:
 
-  - $\left(\dfrac{f}{g}\right)'=\dfrac{f'g-fg'}{g^2} 
+  - $\left(\dfrac{f}{g}\right)'=\dfrac{f'g-fg'}{g^2}$
   
 
 ## Exemples:
@@ -187,13 +187,13 @@ Calculer un D.T.= approximer une fonction par une autre fonction plus simple (un
 
 ## Dérivée: approximation et D.T.
 
-<iframe src="https://www.geogebra.org/classic/MEHMVMPq?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/classic/MEHMVMPq?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## 3.2.A)
 
 Déterminez le développement de Taylor à l’ordre n au voisinage de a pour la fonction f si
 
-$f(x) = \sin (x) $, $n=3$ et $a=0$
+$f(x) = \sin(x)$, $n=3$ et $a=0$
 
 ## 3.2.A)
 
@@ -201,7 +201,7 @@ $f(x) = \sin (x) $, $n=3$ et $a=0$
 
 Déterminez le développement de Taylor à l’ordre n au voisinage de a pour la fonction f si
 
-$f (x) = \ln(x + 1)$, $n = 3$ et $a = 0$.
+$f(x) = \ln(x + 1)$, $n = 3$ et $a = 0$.
 
 ## 3.2.A)
 
@@ -227,7 +227,7 @@ Considérons la fonction $f(x) = \sqrt{x}$.
 
 Considérons la fonction $f(x) = \sqrt{x}$.
 
--En sachant que $\sqrt{1,01} = 1,00498\ldots$, commentez votre résultat pour la valeur approchée calculée au point précédent.
+- En sachant que $\sqrt{1,01} = 1,00498\ldots$, commentez votre résultat pour la valeur approchée calculée au point précédent.
 
 ## 3.2.D) et 3.2.E)
 
